@@ -1,4 +1,8 @@
 
+export const metadata = {
+    title: "Home"
+}
+
 const Home = () => {
   return (
     <div>Home</div>
